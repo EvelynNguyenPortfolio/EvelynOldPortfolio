@@ -17,7 +17,7 @@
 <h2>Java Projects:</h2>
 
 - <b>Project 1</b>
-  - [Encoder/Decoder Program]()
+  - [Encoder/Decoder Program](https://github.com/evelynnoelle/portfolio-proj1.git)
 - <b>Project 2</b>
   - [Library Database/Catalogue Program]()
 - <b>Project 3</b>
