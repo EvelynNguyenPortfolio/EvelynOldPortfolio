@@ -1,6 +1,6 @@
 <h1>Hi! My name is Evelyn Nguyen! <br/>
 
-<h2>👨‍💻 Project Experience:</h2>
+<h2>Project Experience:</h2>
 
 - <b>Implement modularity for various programs through encapsulation, inheritance, and abstraction, to improve code readability and allowing code reusability </b>
 
@@ -14,7 +14,7 @@
 
 - <b>Create test files to verify data, develop exception handling methods, and debug runtime errors to ensure interfaces and code run smoothly for users and fellow programmers </b>
 
-<h2>👨‍💻 Java Projects:</h2>
+<h2>Java Projects:</h2>
 
 - <b>Project 1</b>
   - [Encoder/Decoder Program]()
@@ -25,7 +25,7 @@
 - <b>Project 4</b>
   - [Airline Finder Program]()  
 
-<h2>👨‍💻 Technical Skills:</h2>
+<h2>Technical Skills:</h2>
 
 - <b>Software(s): Microsoft Word, Microsoft Excel, Microsoft Powerpoint, Canvas, IntelliJ IDEA</b>
 
