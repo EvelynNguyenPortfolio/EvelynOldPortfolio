@@ -8,10 +8,6 @@
 
 - <b>Integrate usage of file importation and exportation in code through Java I/O, enabling data to be transferred between programs </b>
 
-- <b>Develop library system that allows users to add, remove, search, and display items from catalog </b>
-
-- <b>Provide users the ability to export library catalog to a CSV (comma separated value) file and also import new items from a CSV </b>
-
 - <b>Create test files to verify data, develop exception handling methods, and debug runtime errors to ensure interfaces and code run smoothly for users and fellow programmers </b>
 
 <h2>Java Projects:</h2>
