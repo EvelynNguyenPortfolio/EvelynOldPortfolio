@@ -28,4 +28,5 @@
 - <b>Programming Language(s): Java</b>
 
 <h2>Connect with me:</h2>
+
 - <b>[Evelyn Nguyen | LinkedIn](https://www.linkedin.com/in/evelyn-nguyen-cs/)</b>
