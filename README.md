@@ -1,6 +1,7 @@
 <h1>Hi! My name is Evelyn Nguyen! <br/>
 
 <h2>👨‍💻 Project Experience:</h2>
+
 - <b>Implement modularity for various programs through encapsulation, inheritance, and abstraction, to improve code readability and allowing code reusability </b>
 
 - <b>Create interfaces for data collection, manipulation, and retrieval using multi-dimensional arrays, array lists,HashMaps, and control structures, allowing users to better document, classify, and interpret their data </b>
