@@ -17,7 +17,7 @@
 - <b>Project 2</b>
   - [Library Database/Catalogue Program](https://github.com/evelynnoelle/portfolio-java-proj2.git)
 - <b>Project 3</b>
-  - [Airplane Seat Reservation Program]()
+  - [Airplane Seat Reservation Program](https://github.com/evelynnoelle/portfolio-java-proj3.git)
 - <b>Project 4</b>
   - [Airline Finder Program]()  
 
