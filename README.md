@@ -19,7 +19,7 @@
 - <b>Project 3</b>
   - [Airplane Seat Reservation Program](https://github.com/evelynnoelle/portfolio-java-proj3.git)
 - <b>Project 4</b>
-  - [Pizza Menu](https://github.com/evelynnoelle/portfolio-java-proj4.git)  
+  - [Pizza Menu Program](https://github.com/evelynnoelle/portfolio-java-proj4.git)  
 
 <h2>Technical Skills:</h2>
 
