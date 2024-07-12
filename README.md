@@ -25,8 +25,8 @@
 
 - <b>Software(s): Microsoft Word, Microsoft Excel, Microsoft Powerpoint, Canvas, IntelliJ IDEA</b>
 
-- <b>Programming Language(s): Java</b>
+- <b>Programming Language(s): Java and Python</b>
 
 <h2>Connect with me:</h2>
 
-- <b>[Evelyn Nguyen | LinkedIn](https://www.linkedin.com/in/evelyn-nguyen-cs/)</b>
+- <b>[Evelyn Nguyen | LinkedIn](https://www.linkedin.com/in/evelyn-nguyen-cs/) <b>
